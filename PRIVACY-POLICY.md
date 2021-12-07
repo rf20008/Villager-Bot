@@ -11,4 +11,4 @@
 ## Who has access?
 - Only the owner of Villager Bot, Iapetus-11, has access to the data.
 ## Can I delete my data?
-- Simply DM the owner or ask in the support server, your data will be deleted as soon as the owner sees your message and is able.
+- Simply DM the owner or ask in the support server. Your data will be deleted as soon as the owner sees your message and is able.
